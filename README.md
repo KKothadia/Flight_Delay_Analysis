@@ -2,7 +2,7 @@
 
 ##Objective
 
-Analyzing flight dataset in colab noteboooks to identify contributing factors for flight delays 
+Analyzing flight dataset in colab notebooks to identify contributing factors for flight delays 
 
 ##Group Members
 
