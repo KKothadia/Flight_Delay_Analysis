@@ -2,7 +2,7 @@
 
 ##Objective
 
-Analyzing flight delays to identify peak times and contributing factors
+Analyzing flight dataset in colab noteboooks to identify contributing factors for flight delays 
 
 ##Group Members
 
