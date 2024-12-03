@@ -1,0 +1,3 @@
+The observation and result we gain from this analysis is that delays in flights happen due to many reason but the most prominent is due to the foot traffic present in in origin airport
+
+Also Delays happen due to excess foot traffic in airports during certain periods that are visible in the data
